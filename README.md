@@ -46,7 +46,7 @@ I'm a firm believer in the importance of continuous learning in the ever-evolvin
 I'm enthusiastic about collaborating on intriguing projects, exchanging knowledge, and connecting with fellow developers. Please don't hesitate to reach out to me on GitHub or connect with me on LinkedIn.
 
 - GitHub: [JASIM16027](https://github.com/JASIM16027)
-- LinkedIn: [JASIM UDDIN](https://www.linkedin.com/in/jasim-uddin/)
+- LinkedIn: [JASIM UDDIN](https://www.linkedin.com/in/jasim-uddin-042715136/)
 - LeetCode: [JASIM UDDIN](https://leetcode.com/jasim-uddin/)
 
 Let's work together to shape the future of technology!
