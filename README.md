@@ -12,6 +12,7 @@ With a strong foundation in JavaScript and a focus on backend technologies, I ha
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jasim-uddin-042715136)[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetCode&logoColor=white)](https://https://leetcode.com/JASIMUDDIN/)
+
 I'm enthusiastic about collaborating on intriguing projects, exchanging knowledge, and connecting with fellow developers. Please don't hesitate to reach out to me on GitHub or connect with me on LinkedIn.
 ### Other Skills
 - Problem Solving: Analyzing and solving complex issues.
