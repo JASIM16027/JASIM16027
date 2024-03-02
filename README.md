@@ -1,5 +1,5 @@
 
-👋 Hello, I'm Md. Jasim Uddin, a dedicated JavaScript Backend Developer with a passion for crafting robust and efficient server-side solutions.
+👋 Hello, I'm Md. Jasim Uddin, a dedicated Backend Developer with a passion for crafting robust and efficient server-side solutions.
 
 ## Professional Background
 With a strong foundation in JavaScript and a focus on backend technologies, I have experience in building scalable and performant applications. I specialize in leveraging the power of JavaScript to create server-side APIs, services, and applications that drive the core functionality of web and mobile applications.
